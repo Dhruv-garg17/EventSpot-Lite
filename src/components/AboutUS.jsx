@@ -31,14 +31,14 @@ At EventSpot Lite, we’re dedicated to making your event planning and participa
                     </div>
                 </div>
                 <div className="about-images">
-                    <img src="/images/About1.webp" alt="Office" className="image-left" />
+                    <img src="https://th.bing.com/th/id/OIP.yQ-cgqMpkYqkPYYV3VCBHgHaEf?rs=1&pid=ImgDetMain" alt="Office" className="image-left" />
                 </div>
             </div>
 
             {/* Second Section - Image on the Left */}
             <div className="about-grid">
                 <div className="about-image-left">
-                    <img src="/images/About2.jpg" alt="Office Vision" className="image-right" />
+                    <img src="https://i.pinimg.com/originals/09/bb/98/09bb9824e838dc7e8c8a1e9e90c15eba.jpg" alt="Office Vision" className="image-right" />
                 </div>
                 <div className="about-text">
                     <h2>Our Vision</h2>

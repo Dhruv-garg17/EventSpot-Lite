@@ -17,7 +17,7 @@
       "location": "Art Gallery,Pune",
       "price": "Free",
       "description": "Explore stunning artworks from local artists.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "location": "Town Square,Chandigarh",
       "price": "₹200",
       "description": "Taste cuisines from around the world.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "location": "Dance Hall,Mohali",
       "price": "₹300",
       "description": "Experience mesmerizing dance performances.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 5,
@@ -47,7 +47,7 @@
       "location": "Comedy Club,Noida",
       "price": "₹250",
       "description": "Laugh out loud with top comedians.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 6,
@@ -57,7 +57,7 @@
       "location": "Convention Center,Mumbai",
       "price": "Free",
       "description": "Discover new books and meet authors.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 7,
@@ -67,7 +67,7 @@
       "location": "Main Theater,Mumbai",
       "price": "₹350",
       "description": "Enjoy a classic theater performance.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 8,
@@ -77,7 +77,7 @@
       "location": "Studio A,Mumbai",
       "price": "₹600",
       "description": "Learn photography techniques from experts.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 9,
@@ -87,7 +87,7 @@
       "location": "Jazz Lounge,Delhi",
       "price": "₹400",
       "description": "A night of soulful jazz music.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 10,
@@ -97,7 +97,7 @@
       "location": "Tech Hall,Banglore",
       "price": "₹1500",
       "description": "A gathering of top minds in technology.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 11,
@@ -107,7 +107,7 @@
       "location": "Cafe Muse,Pune",
       "price": "Free",
       "description": "Listen to creative poetry performances.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 12,
@@ -117,7 +117,7 @@
       "location": "Concert Hall",
       "price": "₹800",
       "description": "An evening of classical symphonies.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 13,
@@ -127,7 +127,7 @@
       "location": "Kitchen Studio,Mumbai",
       "price": "₹400",
       "description": "Learn cooking techniques from a pro chef.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 14,
@@ -137,7 +137,7 @@
       "location": "City Stadium,Delhi",
       "price": "₹200",
       "description": "Join the city's annual marathon.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 15,
@@ -147,7 +147,7 @@
       "location": "Exhibition Hall,Banglore",
       "price": "Free",
       "description": "Explore scientific projects and ideas.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 16,
@@ -157,7 +157,7 @@
       "location": "Grand Ballroom,Pune",
       "price": "₹1000",
       "description": "An evening for a charitable cause.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 17,
@@ -167,7 +167,7 @@
       "location": "Fashion Center,Chandigarh",
       "price": "₹700",
       "description": "Witness the latest trends in fashion.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 18,
@@ -177,7 +177,7 @@
       "location": "Tech Hub,Banglore",
       "price": "₹1500",
       "description": "Learn coding with hands-on projects.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 19,
@@ -187,7 +187,7 @@
       "location": "Serene Hills,Mumbai",
       "price": "₹1200",
       "description": "Relax and rejuvenate with yoga.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     {
       "id": 20,
@@ -197,7 +197,7 @@
       "location": "Vineyard Estate,Delhi",
       "price": "₹800",
       "description": "Taste and explore various wines.",
-      "image": "./Images/Event.jpg"
+      "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
     },
     
         {
@@ -208,7 +208,7 @@
           "location": "Magic Theater,Pune",
           "price": "₹500",
           "description": "A mesmerizing magic show for all ages.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 22,
@@ -218,7 +218,7 @@
           "location": "Park Arena,Delhi",
           "price": "₹100",
           "description": "Enjoy a movie under the stars.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 23,
@@ -228,7 +228,7 @@
           "location": "Community Center,Chandigarh",
           "price": "Free",
           "description": "Learn gardening techniques and plant care.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 24,
@@ -238,7 +238,7 @@
           "location": "Tech Park,Banglore",
           "price": "₹600",
           "description": "Collaborate and solve real-world problems.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 25,
@@ -248,7 +248,7 @@
           "location": "Sandy Beach,Mumbai",
           "price": "₹200",
           "description": "Join the annual beach volleyball event.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 26,
@@ -258,7 +258,7 @@
           "location": "Music Studio,Delhi",
           "price": "₹400",
           "description": "Learn guitar techniques from experts.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 27,
@@ -268,7 +268,7 @@
           "location": "Retreat Center,Mumbai",
           "price": "₹1000",
           "description": "A peaceful retreat to calm your mind.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 28,
@@ -278,7 +278,7 @@
           "location": "Winery Hall,Delhi",
           "price": "₹800",
           "description": "An evening of wine and cheese tastings.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 29,
@@ -288,7 +288,7 @@
           "location": "Nature Reserve,Pune",
           "price": "₹300",
           "description": "Capture stunning landscapes on a hike.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 30,
@@ -298,7 +298,7 @@
           "location": "Pet Park,Chandigarh",
           "price": "Free",
           "description": "Find a new furry friend to take home.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 31,
@@ -308,7 +308,7 @@
           "location": "Dance Hall,Noida",
           "price": "₹250",
           "description": "Dance the night away with salsa music.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 32,
@@ -318,7 +318,7 @@
           "location": "Art Studio,Delhi",
           "price": "₹300",
           "description": "Learn painting techniques in a hands-on class.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 33,
@@ -328,7 +328,7 @@
           "location": "Climb Gym,Mohali",
           "price": "₹500",
           "description": "Challenge yourself with rock climbing.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 34,
@@ -338,7 +338,7 @@
           "location": "Sweet Gallery,Mumbai",
           "price": "₹200",
           "description": "Indulge in a variety of chocolates.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 35,
@@ -348,7 +348,7 @@
           "location": "Bird Sanctuary,Pune",
           "price": "Free",
           "description": "Explore and spot exotic birds.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 36,
@@ -358,7 +358,7 @@
           "location": "Fitness Center,Chandigarh",
           "price": "₹100",
           "description": "A fun and energetic Zumba class.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 37,
@@ -368,7 +368,7 @@
           "location": "Art House,Mumbai",
           "price": "₹500",
           "description": "Create your own pottery pieces.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 38,
@@ -378,7 +378,7 @@
           "location": "Escape Zone,Delhi",
           "price": "₹600",
           "description": "Test your wits in an escape room.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 39,
@@ -388,7 +388,7 @@
           "location": "Lab Space,Banglore",
           "price": "₹200",
           "description": "Experiment with science activities.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         },
         {
           "id": 40,
@@ -398,7 +398,7 @@
           "location": "Market Square,Mumbai",
           "price": "Free",
           "description": "Explore unique, handcrafted items.",
-          "image": "./Images/Event.jpg"
+          "image": "https://growth99.com/storage/2023/02/five-Ways-Creating-a-Social-Media-Calendar-Can-Help-You-Market-1536x864.jpeg"
         }
     
     
