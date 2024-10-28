@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Up
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './components/Home';
-import AboutUs from './components/AboutUs';
+import AboutUs from './components/AboutUS';
 import Sponsor from './components/SponsorForm';
 import Event from './components/EventForm';
 import FAQ from './components/FAQ';
