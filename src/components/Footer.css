@@ -1,0 +1,90 @@
+.footer {
+    background-color: #2a1a1a;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer-top {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #444;
+  }
+  
+  .social-icons a {
+    color: white;
+    font-size: 18px;
+    margin: 0 10px;
+    text-decoration: none;
+    display: inline-block;
+    transition: color 0.3s;
+  }
+  
+  .social-icons a:hover {
+    color: #ff9900;
+  }
+  
+  .footer-bottom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px 0;
+    color: #ccc;
+  }
+  
+  .footer-section h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #ff9900;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li a {
+    color: #ccc;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .footer-section ul li a:hover {
+    color: white;
+  }
+  
+  .EventSpot {
+    text-align: left;
+  }
+  
+  .EventSpot-input {
+    display: flex;
+    gap: 5px;
+  }
+  
+  .EventSpot-input input {
+    padding: 10px;
+    flex: 1;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .EventSpot-input button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #ff9900;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .EventSpot-input button:hover {
+    background-color: #e68a00;
+  }
+  
+  .footer-copyright {
+    font-size: 14px;
+    margin-top: 20px;
+    color: #777;
+  }
+  

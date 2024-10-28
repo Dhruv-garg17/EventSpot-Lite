@@ -1,0 +1,405 @@
+[
+    {
+      "id": 1,
+      "title": "Music Concert",
+      "artist": "The Sound Waves",
+      "date": "2024-11-05",
+      "location": "City Club,Delhi",
+      "price": "₹500",
+      "description": "Enjoy a night of live music with popular bands.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Art Exhibition",
+      "artist": "Lily Harper",
+      "date": "2024-11-10",
+      "location": "Art Gallery,Pune",
+      "price": "Free",
+      "description": "Explore stunning artworks from local artists.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Food Festival",
+      "artist": "Chef Roberto",
+      "date": "2024-11-12",
+      "location": "Town Square,Chandigarh",
+      "price": "₹200",
+      "description": "Taste cuisines from around the world.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Dance Show",
+      "artist": "The Dance Collective",
+      "date": "2024-11-15",
+      "location": "Dance Hall,Mohali",
+      "price": "₹300",
+      "description": "Experience mesmerizing dance performances.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Stand-Up Comedy",
+      "artist": "Sunny Laughs",
+      "date": "2024-11-17",
+      "location": "Comedy Club,Noida",
+      "price": "₹250",
+      "description": "Laugh out loud with top comedians.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Book Fair",
+      "artist": "Multiple Authors",
+      "date": "2024-11-20",
+      "location": "Convention Center,Mumbai",
+      "price": "Free",
+      "description": "Discover new books and meet authors.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Theater Play",
+      "artist": "The Stage Group",
+      "date": "2024-11-22",
+      "location": "Main Theater,Mumbai",
+      "price": "₹350",
+      "description": "Enjoy a classic theater performance.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Photography Workshop",
+      "artist": "Alex Lens",
+      "date": "2024-11-25",
+      "location": "Studio A,Mumbai",
+      "price": "₹600",
+      "description": "Learn photography techniques from experts.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Jazz Night",
+      "artist": "Blue Notes Band",
+      "date": "2024-11-27",
+      "location": "Jazz Lounge,Delhi",
+      "price": "₹400",
+      "description": "A night of soulful jazz music.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Tech Conference",
+      "artist": "Tech Leaders",
+      "date": "2024-12-01",
+      "location": "Tech Hall,Banglore",
+      "price": "₹1500",
+      "description": "A gathering of top minds in technology.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Poetry Slam",
+      "artist": "Emily Poems",
+      "date": "2024-12-05",
+      "location": "Cafe Muse,Pune",
+      "price": "Free",
+      "description": "Listen to creative poetry performances.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Classical Music Evening",
+      "artist": "Orchestra Elite,Delhi",
+      "date": "2024-12-07",
+      "location": "Concert Hall",
+      "price": "₹800",
+      "description": "An evening of classical symphonies.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Cooking Workshop",
+      "artist": "Chef Nina",
+      "date": "2024-12-10",
+      "location": "Kitchen Studio,Mumbai",
+      "price": "₹400",
+      "description": "Learn cooking techniques from a pro chef.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Marathon",
+      "artist": "City Runners",
+      "date": "2024-12-15",
+      "location": "City Stadium,Delhi",
+      "price": "₹200",
+      "description": "Join the city's annual marathon.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Science Fair",
+      "artist": "Young Innovators",
+      "date": "2024-12-18",
+      "location": "Exhibition Hall,Banglore",
+      "price": "Free",
+      "description": "Explore scientific projects and ideas.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Charity Gala",
+      "artist": "City Philanthropists",
+      "date": "2024-12-20",
+      "location": "Grand Ballroom,Pune",
+      "price": "₹1000",
+      "description": "An evening for a charitable cause.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Fashion Show",
+      "artist": "Elite Designers",
+      "date": "2025-01-05",
+      "location": "Fashion Center,Chandigarh",
+      "price": "₹700",
+      "description": "Witness the latest trends in fashion.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Coding Bootcamp",
+      "artist": "Tech Educators",
+      "date": "2025-01-10",
+      "location": "Tech Hub,Banglore",
+      "price": "₹1500",
+      "description": "Learn coding with hands-on projects.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Yoga Retreat",
+      "artist": "Harmony Yoga",
+      "date": "2025-01-15",
+      "location": "Serene Hills,Mumbai",
+      "price": "₹1200",
+      "description": "Relax and rejuvenate with yoga.",
+      "image": "./Images/Event.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Wine Tasting",
+      "artist": "Sommelier Group",
+      "date": "2025-01-20",
+      "location": "Vineyard Estate,Delhi",
+      "price": "₹800",
+      "description": "Taste and explore various wines.",
+      "image": "./Images/Event.jpg"
+    },
+    
+        {
+          "id": 21,
+          "title": "Magic Show",
+          "artist": "The Illusionist",
+          "date": "2025-01-25",
+          "location": "Magic Theater,Pune",
+          "price": "₹500",
+          "description": "A mesmerizing magic show for all ages.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 22,
+          "title": "Outdoor Cinema",
+          "artist": "Film Club",
+          "date": "2025-01-30",
+          "location": "Park Arena,Delhi",
+          "price": "₹100",
+          "description": "Enjoy a movie under the stars.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 23,
+          "title": "Gardening Workshop",
+          "artist": "Green Thumbs",
+          "date": "2025-02-03",
+          "location": "Community Center,Chandigarh",
+          "price": "Free",
+          "description": "Learn gardening techniques and plant care.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 24,
+          "title": "Coding Hackathon",
+          "artist": "Code Ninjas",
+          "date": "2025-02-07",
+          "location": "Tech Park,Banglore",
+          "price": "₹600",
+          "description": "Collaborate and solve real-world problems.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 25,
+          "title": "Beach Volleyball Tournament",
+          "artist": "Sports Club",
+          "date": "2025-02-10",
+          "location": "Sandy Beach,Mumbai",
+          "price": "₹200",
+          "description": "Join the annual beach volleyball event.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 26,
+          "title": "Guitar Workshop",
+          "artist": "Strum Masters",
+          "date": "2025-02-15",
+          "location": "Music Studio,Delhi",
+          "price": "₹400",
+          "description": "Learn guitar techniques from experts.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 27,
+          "title": "Meditation Retreat",
+          "artist": "Peace Seekers",
+          "date": "2025-02-20",
+          "location": "Retreat Center,Mumbai",
+          "price": "₹1000",
+          "description": "A peaceful retreat to calm your mind.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 28,
+          "title": "Wine & Cheese Pairing",
+          "artist": "Wine Masters",
+          "date": "2025-02-25",
+          "location": "Winery Hall,Delhi",
+          "price": "₹800",
+          "description": "An evening of wine and cheese tastings.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 29,
+          "title": "Nature Photography Hike",
+          "artist": "Nature Clicks",
+          "date": "2025-03-01",
+          "location": "Nature Reserve,Pune",
+          "price": "₹300",
+          "description": "Capture stunning landscapes on a hike.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 30,
+          "title": "Dog Adoption Fair",
+          "artist": "Pet Shelter",
+          "date": "2025-03-05",
+          "location": "Pet Park,Chandigarh",
+          "price": "Free",
+          "description": "Find a new furry friend to take home.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 31,
+          "title": "Salsa Night",
+          "artist": "Dance Fusion",
+          "date": "2025-03-10",
+          "location": "Dance Hall,Noida",
+          "price": "₹250",
+          "description": "Dance the night away with salsa music.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 32,
+          "title": "Painting Class",
+          "artist": "Art Masters",
+          "date": "2025-03-15",
+          "location": "Art Studio,Delhi",
+          "price": "₹300",
+          "description": "Learn painting techniques in a hands-on class.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 33,
+          "title": "Indoor Rock Climbing",
+          "artist": "Climb Pro",
+          "date": "2025-03-20",
+          "location": "Climb Gym,Mohali",
+          "price": "₹500",
+          "description": "Challenge yourself with rock climbing.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 34,
+          "title": "Chocolate Tasting",
+          "artist": "Choco Experts",
+          "date": "2025-03-25",
+          "location": "Sweet Gallery,Mumbai",
+          "price": "₹200",
+          "description": "Indulge in a variety of chocolates.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 35,
+          "title": "Bird Watching Tour",
+          "artist": "Nature Lovers",
+          "date": "2025-03-28",
+          "location": "Bird Sanctuary,Pune",
+          "price": "Free",
+          "description": "Explore and spot exotic birds.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 36,
+          "title": "Zumba Fitness Class",
+          "artist": "Fit Life",
+          "date": "2025-04-01",
+          "location": "Fitness Center,Chandigarh",
+          "price": "₹100",
+          "description": "A fun and energetic Zumba class.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 37,
+          "title": "Pottery Workshop",
+          "artist": "Clay Creations",
+          "date": "2025-04-05",
+          "location": "Art House,Mumbai",
+          "price": "₹500",
+          "description": "Create your own pottery pieces.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 38,
+          "title": "Escape Room Challenge",
+          "artist": "Puzzle Masters",
+          "date": "2025-04-10",
+          "location": "Escape Zone,Delhi",
+          "price": "₹600",
+          "description": "Test your wits in an escape room.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 39,
+          "title": "Science Workshop",
+          "artist": "Innovate Minds",
+          "date": "2025-04-15",
+          "location": "Lab Space,Banglore",
+          "price": "₹200",
+          "description": "Experiment with science activities.",
+          "image": "./Images/Event.jpg"
+        },
+        {
+          "id": 40,
+          "title": "Craft Fair",
+          "artist": "Handmade Goods",
+          "date": "2025-04-20",
+          "location": "Market Square,Mumbai",
+          "price": "Free",
+          "description": "Explore unique, handcrafted items.",
+          "image": "./Images/Event.jpg"
+        }
+    
+    
+]

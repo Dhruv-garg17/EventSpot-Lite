@@ -1,0 +1,112 @@
+/* Flexbox container for first and last name fields */
+.form-row {
+    display: flex;
+    gap: 10px;
+  }
+  
+  /* Adjust width for form fields in form-row */
+  .form-row .form-group {
+    flex: 1;
+  }
+  
+  /* Existing styles... */
+  
+  /* Centering the form container */
+  .event-form-container {
+    padding: 20px;
+    max-width: 500px;
+    margin: auto;
+    background-color: #f9f3e8;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .event-form-container h1 {
+    font-size: 2em;
+    color: #2a2a2a;
+    text-align: center;
+  }
+  
+  .event-form-container p {
+    font-size: 0.9em;
+    color: #595959;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 0.85em;
+    color: #2a2a2a;
+    margin-bottom: 0px;
+    margin-top: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    outline: none;
+    margin-top: 5px;
+  }
+  
+  .form-group input:focus {
+    border-color: #0073e6;
+    box-shadow: 0 0 5px rgba(0, 115, 230, 0.3);
+  }
+  
+  .submit-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #0073e6;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .submit-button:hover {
+    background-color: #005bb5;
+  }
+  
+  .privacy-text {
+    font-size: 0.85em;
+    color: #8a8a8a;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .privacy-text a {
+    color: #0073e6;
+    text-decoration: none;
+  }
+  
+  .privacy-text a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Confirmation Message */
+  .confirmation-message {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #2a2a2a;
+    color: #ffffff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+    max-width: 300px;
+    z-index: 1000;
+  }
+  
