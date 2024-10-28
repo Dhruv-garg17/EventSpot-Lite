@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from 'react-icons/fa';
-import './AboutUs.css';  // For additional styling
+import './AboutUS.css';  // For additional styling
 
 const AboutUs = () => {
     return (
